@@ -19,6 +19,6 @@ def using_concat(array1, array2)
    array
  end 
  
- def using_delete_at(array, index)
-   array.delete_at(index)
+ def using_delete_at(array, integer)
+   array.delete_at(integer)
  end
